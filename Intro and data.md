@@ -11,7 +11,6 @@ One city will be analyzed in this project: Toronto, ON. We will be using the bel
 Data 1: First dataset is from Wikipedia. The Wikipedia site shown above provided almost all the information about the neighborhoods. It included the Postal code, Borough and the name of the Neighborhoods present in Toronto.
 Link to the dataset: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
-Data 2: Second dataset is Geographical Location data using Geocoder Package which provided us with the Latitudes and Longitudes of the neighborhoods with the respective Postal Codes.
-Link to the dataset: https://cocl.us/Geospatial_data
+Data 2: Second dataset is Geographical Location data using Geocoder Package which provided us with the Latitudes and Longitudes of the neighborhoods with the respective Postal Codes. Link to the dataset: https://cocl.us/Geospatial_data
                                                                       
 Data 3: Venue Data which was pulled using Foursquare API.
