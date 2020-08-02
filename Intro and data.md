@@ -7,6 +7,7 @@ The project is mainly focused for Entrepreneurs or Business owners who want to o
 
 ## 3. Data 
 One city will be analyzed in this project: Toronto, ON. We will be using the below datasets for analyzing Toronto.
+
 Data 1: First dataset is from Wikipedia. The Wikipedia site shown above provided almost all the information about the neighborhoods. It included the Postal code, Borough and the name of the Neighborhoods present in Toronto.
 Link to the dataset: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
